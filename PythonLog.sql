@@ -13,3 +13,5 @@ results varchar(64) not null
 );
 
 select * from log;
+
+select phrase, letters, ip, browser_string, results from log;

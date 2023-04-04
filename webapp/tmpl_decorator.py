@@ -1,4 +1,3 @@
-
 from functools import wraps
 
 def decorator_name(func):
